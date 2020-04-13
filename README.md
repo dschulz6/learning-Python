@@ -1,2 +1,2 @@
-# netmiko_naplam
+# learning Python
 python and netmiko from lab Ubuntu
