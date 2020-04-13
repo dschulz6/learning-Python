@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 """
     This Python script leverages RESTCONF to:
@@ -28,11 +27,11 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-# These variables target the test router in schulz.com lab
+# These variables target the RESTCONF Always-On Sandbox hosted by Cisco DevNet
 HOST = 'ios-xe-mgmt.cisco.com'
 PORT = '9443'
-USER = 'developer'
-PASS = 'C1sco12345'
+USER = 'root'
+PASS = 'D_Vay!_10&'
 
 # Identifies the interface on the device used for management access
 # Used to ensure the script isn't used to update the IP leveraged to manage device
