@@ -1,2 +1,2 @@
 # learning Python
-python and netmiko from lab Ubuntu
+python from lab Ubuntu
