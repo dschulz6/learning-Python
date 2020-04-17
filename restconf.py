@@ -30,7 +30,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # These variables target the RESTCONF Always-On Sandbox hosted by Cisco DevNet
 HOST = '192.168.0.200'
 PORT = '9443'
-USER = 'admin'
+USER = 'Engineer'
 PASS = 'ilfnb980'
 
 # Identifies the interface on the device used for management access
